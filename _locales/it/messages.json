@@ -1,0 +1,20 @@
+{
+    "motto": {
+        "message": "Gestore della cronologia de noantri"
+    },
+    "from": {
+        "message": "Dal"
+    },
+    "to": {
+        "message": "Al"
+    },
+    "text": {
+        "message": "Testo da cercare"
+    },
+    "search": {
+        "message": "Cerca"
+    },    
+    "deleteselected": {
+        "message": "elimina selezionati"
+    }
+}

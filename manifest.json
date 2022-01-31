@@ -1,0 +1,19 @@
+{
+  "name": "Listory",
+  "description": "Poor man's history manager",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "default_locale": "en",
+  "permissions": ["tabs", "history"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "/images/favicon16.png",
+      "32": "/images/favicon32.png"
+    }
+  },
+  "icons": {
+    "16": "/images/favicon16.png",
+    "32": "/images/favicon32.png"
+  }
+}

@@ -1,0 +1,43 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>Listory</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <script src="listory.js"></script>
+    <link href="listory.css" rel="stylesheet">
+  </head>
+
+  <body>
+    <div class="container">
+        <div class="title">
+            <h2>Listory</h2>
+            <span id="motto"></span>
+        </div>
+        <div class="fields">
+            <div>
+                <label id="lblFromDate"></label>
+                <input type="date" id="fromDate" />
+            </div>
+            <div>
+                <label id="lblToDate"></label>
+                <input type="date" id="toDate" />
+            </div>
+        </div>
+        <div class="fields">
+            <div>
+                <label id="lblSearch"></label>
+                <input type="text" id="searchText" />
+            </div>
+
+            <div>
+                <label>&nbsp;</label>
+                <a id="searchButton"></a>
+            </div>
+        </div>
+                
+        <form id="divResults"></form>
+    </div>
+  </body>
+</html>

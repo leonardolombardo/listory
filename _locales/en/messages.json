@@ -1,0 +1,20 @@
+{
+    "motto": {
+        "message": "Poor man's history manager"
+    },
+    "from": {
+        "message": "From date"
+    },
+    "to": {
+        "message": "To date"
+    },
+    "text": {
+        "message": "Search text"
+    },
+    "search": {
+        "message": "Search"
+    },    
+    "deleteselected": {
+        "message": "delete selected"
+    }
+}
